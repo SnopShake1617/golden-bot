@@ -1,0 +1,14 @@
+discord
+colorlog
+cached_property
+ffmpeg-python
+opuslib
+psutil
+youtube_dl
+brawlstats
+asyncio
+Pymoe
+pip
+aiohttp
+discord.py[voice]
+dblpy
